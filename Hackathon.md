@@ -46,4 +46,4 @@ This hackathon provided us with a unique opportunity to work on a project withou
 
 It was also a great chance to explore new roles within the team, such as UX design, project management, and presentation design, in addition to our usual roles. We were able to learn how to work effectively with a new team and see how each member contributed to the project. This experience allowed us to work on something that had real business value in a safe and enjoyable environment.
 
-![t0b1 team](images/team.jpeg)
+![t0b1 team](images/vodafone.jpg)
