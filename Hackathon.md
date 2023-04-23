@@ -16,13 +16,13 @@ Our second call was more structured, and we were able to connect our ideas into 
 
 Our third call took place a few days before the event, where we discussed the technology we would be using and went over any additional preparations that could be helpful during the hackathon itself.
 
-![Photo](images/collaborate.jpg)
+![Photo of the team](images/collaborate.jpg)
 
 On the day of the hackathon, we had a clear understanding of the technical requirements and created user stories for each task on a sprint board. During the event, members of the team could assign themselves tasks from the board to keep track of which features had already been built, what needed to be prioritised to demonstrate a full journey, and what was left to be done.
 
 To begin, we created the environment using NextJS and Vercel to deploy the product to the public. We designed the product using Figma and components from the internal library Source Web.
 
-![Photo](images/design.png)
+![Design mock](images/design.png)
 
 We set up a Github repository to collaborate on the code and started coding. We aimed to create a solution similar to Tobi, Vodafone's bot, and wanted to build our product on top of Tobi's existing solution, which was already highly rated by customers. Due to the short notice, we were unable to gain access to Tobi's API, so we asked a member of Tobi's team to explain how Tobi works behind the scenes, and we were explained the following architecture:
 
